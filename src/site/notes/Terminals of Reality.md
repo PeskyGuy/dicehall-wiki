@@ -12,4 +12,6 @@ The third is [[Oxidia\|Oxidia]]. A desert world with old megastructures and citi
 
 The fourth is only known as [[Idalum\|Idalum]]. Only danger lies within this reality.
 
+There are also other terminals like [[Terra\|Terra]].
+
 ![Planes.png](/img/user/Planes.png)
