@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/terminals-of-reality/","dgShowToc":true}
 ---
 
+# Terminals of Reality
+
 The Terminals are the current theory on how reality functions in Exelon. There are four known Terminals, with the rest being a mystery. Each terminal is a seemingly infinite reality of flat ground.
  
 The first terminal is known as [[Paraiso\|Paraiso]]. A world of lush plains and vast oceans, people that have traveled to this place never return.
