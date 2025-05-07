@@ -14,4 +14,4 @@ The fourth is only known as [[Idalum\|Idalum]]. Only danger lies within this rea
 
 There are also other terminals like [[Terra\|Terra]].
 
-![Planes.png](/img/user/Planes.png)
+![Planes.png](/img/user/Assets/Planes.png)
