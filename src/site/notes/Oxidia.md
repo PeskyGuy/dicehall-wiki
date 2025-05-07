@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oxidia/","dgShowToc":true}
+{"dg-publish":true,"permalink":"/oxidia/"}
 ---
 
 # Oxidia

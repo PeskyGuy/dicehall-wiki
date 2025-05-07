@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/erthe/","dgShowToc":true}
+{"dg-publish":true,"permalink":"/erthe/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terminals-of-reality/","dgShowToc":true}
+{"dg-publish":true,"permalink":"/terminals-of-reality/"}
 ---
 
 # Terminals of Reality

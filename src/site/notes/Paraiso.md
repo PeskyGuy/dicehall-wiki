@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paraiso/","dgShowToc":true}
+{"dg-publish":true,"permalink":"/paraiso/"}
 ---
 
 # Paraiso
