@@ -10,7 +10,7 @@ Welcome to the worlds of Exelon! Here you will find the fundamentals of how the 
 #### [[Paraiso\|Paraiso]]
 
 #### [[Erthe\|Erthe]]
-#### [[Oxidia\|Oxidia]]
+#### [[Oxidia/Oxidia\|Oxidia]]
 
 #### [[Idalum\|Idalum]]
 
